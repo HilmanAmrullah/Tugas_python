@@ -11,4 +11,7 @@
 ![gambar 1](Screenshot/ss1.png) <br>
 5. Lalu langkah selanjutnya adalah membuat print atau untuk mencetak nanti di program python <br>
 ![gambar 2](Screenshot/ss2.png) <br>
+6. Contoh yang akan tampil di program seperti ini <br>
+![gambar 3](Screenshot/ss7.png) <br>
+
 
