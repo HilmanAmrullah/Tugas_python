@@ -13,5 +13,8 @@
 ![gambar 2](Screenshot/ss2.png) <br>
 6. Contoh yang akan tampil di program seperti ini <br>
 ![gambar 3](Screenshot/ss7.png) <br>
-
+7. Langkah selanjutnya kita akan membuat program nya yaitu, contoh kita print "Latihan 1"  dan kita buat rumus nya supaya user bisa menginput nilai yang dia mau <br>
+![gambar 4](Screenshot/ss3.png) <br>
+8. Selanjutanya kita akan print programnya seperti ini <br>
+![gambar 5](Screenshot/ss4.png) <br>
 
