@@ -1,1 +1,5 @@
-#Tugas_python1
+# Tugas Python
+
+## Cara Membuat Program menggunakan Python
+
+### 
