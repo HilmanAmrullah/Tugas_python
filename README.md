@@ -19,5 +19,14 @@
 ![gambar 5](Screenshot/ss4.png) <br>
 9. Selanjutnya kita akan memasukan total untuk menjumlahkan program yang kalian buat <br>
 ![gambar 6](Screenshot/ss5.png) <br>
+10. Selanjutnya kita print penjumlahan dari program tersebut <br>
+![gambar 7](Screenshot/ss6.png) <br>
+11. Dan ini hasil dari program yang kita buat <br>
+![gambar 8](Screenshot/ss8.png) <br>
+12. Selanjutnya kita membuat program Menghitung Luas & Keliling persegi
+![gambar 9](Screenshot/ss9.png) <br>
+13. Dan ini hasilnya setelah kita RUN <br>
+![gambar 10](Screenshot/ss10.png) <br>
+<br> <br> <br>
 
-
+<i>sekian tutorial singkat ini saya ucapkan terima kasih, semoga bermanfaat</i>
