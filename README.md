@@ -1,10 +1,12 @@
-# tugas1
+# Tugas Python
 
-## tutorial git vcs
+## Tutorial Membuat Program Python
 
-### kita membuat repositories
+### Membuat Program Latihan dan Mencari Keliling Persegi
 
 1. Kita buat folder di pc kita <br>
-2. Kita ketik $mkdir latihan_hilman untuk menambahkan folder <br>
-3. Kita pindah directory yang barusan kita buat dengan cara $cd latihan_hilman <br>
+2. Kita ketik Python.py<br>
+3. Lalu kita masuk ke File python.py menggunakan ekstrak aplikasi masing masing, disini saya menggunakan Visual Studio Code<br>
+4. Kita akan membuat Program untuk menginput Data Diri User
+![gambar 1](screenshot)
 
